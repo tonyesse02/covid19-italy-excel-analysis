@@ -1,9 +1,6 @@
-# Excel temporary files
 ~$*.xlsx
 ~$*.xls
 *.xlk
-
-# OS
 .DS_Store
 Thumbs.db
 desktop.ini
